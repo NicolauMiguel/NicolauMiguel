@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NicolauMiguel
 - 👀 I’m interested in ... Study
-- 🌱 I’m currently learning ... Kotlin <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="Kotlin logo" /><img width="10" />
+- 🌱 I’m currently learning ... Kotlin
+-  <img src="https://skillicons.dev/icons?i=kotlin" height="20" alt="Kotlin logo" /><img width="10" />
 - 💞️ I’m looking to collaborate on ... Projects
 - 😄 Pronouns: ... Strengh, kind and smart.
 - ⚡ Fun fact: ... nothing! to migrate 💼
