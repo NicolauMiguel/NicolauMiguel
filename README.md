@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Nicolau+Niguel!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Guys!+👋;+I'm+Nicolau+Miguel!;" />
 </h1>
 
 
@@ -52,8 +52,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows 11 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pascal" height="40" alt="Pascal logo" />
+  <img src="https://skillicons.dev/icons?i=awt" height="40" alt="AWT logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swing" height="40" alt="Swing logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=programming" height="40" alt="Programming logo" />
+<img width="12" />
+
+
+
+
 
 
 
