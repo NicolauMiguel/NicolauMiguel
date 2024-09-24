@@ -53,6 +53,10 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON logo" />
   <img width="12" />
+<img src="https://skillicons.dev/icons?i=gimp" height="40" alt="GIMP logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva logo" />
+<img width="12" />
 
 
 
