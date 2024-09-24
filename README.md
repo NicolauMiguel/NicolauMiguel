@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolauMiguel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... Study
+- 🌱 I’m currently learning ... Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
@@ -52,12 +52,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows 11 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=awt" height="40" alt="AWT logo" />
+  <img src="[https://skillicons.dev/icons?i=json](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)" height="40" alt="JSON logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swing" height="40" alt="Swing logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=programming" height="40" alt="Programming logo" />
-<img width="12" />
+
 
 
 
