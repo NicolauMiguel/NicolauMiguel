@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @NicolauMiguel
 - 👀 I’m interested in ... Study
-- 🌱 I’m currently learning ... Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... Kotlin <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="Kotlin logo" /><img width="10" />
+- 💞️ I’m looking to collaborate on ... Projects
+- 😄 Pronouns: ... Strengh, kind and smart.
+- ⚡ Fun fact: ... nothing! to migrate 💼
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Guys!+👋;+I'm+Nicolau+Miguel!;" />
