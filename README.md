@@ -53,14 +53,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON logo" />
   <img width="12" />
-<img src="https://simpleicons.org/icons/gimp.svg" height="40" alt="GIMP logo" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="40" alt="figma logo" />
 <img width="12" />
-<img src="https://simpleicons.org/icons/canva.svg" height="40" alt="Canva logo" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="40" alt="intelij logo" />
 <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=insomnia" height="40" alt="Insomnia logo" />
-<img width="12" />
+
 
 
 
