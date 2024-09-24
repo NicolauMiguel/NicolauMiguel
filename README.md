@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows 11 logo" />
   <img width="12" />
-  <img src="[https://skillicons.dev/icons?i=json](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON logo" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON logo" />
   <img width="12" />
 
 
