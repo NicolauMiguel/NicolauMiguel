@@ -57,6 +57,12 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva logo" />
 <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=intellij" height="40" alt="IntelliJ logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=netbeans" height="40" alt="NetBeans logo" />
+<img width="12" />
 
 
 
