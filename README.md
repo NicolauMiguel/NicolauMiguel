@@ -53,16 +53,15 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON logo" />
   <img width="12" />
-<img src="https://skillicons.dev/icons?i=gimp" height="40" alt="GIMP logo" />
+<img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" height="40" alt="GIMP logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva logo" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="40" alt="Canva logo" />
 <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=intellij" height="40" alt="IntelliJ logo" />
+<img src="https://skillicons.dev/icons?i=insomnia" height="40" alt="Insomnia logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=netbeans" height="40" alt="NetBeans logo" />
-<img width="12" />
+
 
 
 
