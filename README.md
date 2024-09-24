@@ -14,65 +14,45 @@
 ## 🛠️ Skills
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-<!-- Python -->
-<img src="https://devicon.dev/icons/python/python-original.svg" alt="Python" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" style="margin: 4px;"/>
-
-<!-- JavaScript -->
-<img src="https://devicon.dev/icons/javascript/javascript-original.svg" alt="JavaScript" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" style="margin: 4px;"/>
-
-<!-- SQL (PostgreSQL) -->
-<img src="https://devicon.dev/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" style="margin: 4px;"/>
-
-<!-- CSS -->
-<img src="https://devicon.dev/icons/css3/css3-original.svg" alt="CSS" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/css3.svg" alt="CSS" style="margin: 4px;"/>
-
-<!-- HTML -->
-<img src="https://devicon.dev/icons/html5/html5-original.svg" alt="HTML" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/html5.svg" alt="HTML" style="margin: 4px;"/>
-
-<!-- PHP -->
-<img src="https://devicon.dev/icons/php/php-original.svg" alt="PHP" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/php.svg" alt="PHP" style="margin: 4px;"/>
-
-<!-- Laravel -->
-<img src="https://devicon.dev/icons/laravel/laravel-plain.svg" alt="Laravel" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" style="margin: 4px;"/>
-
-<!-- Angular -->
-<img src="https://devicon.dev/icons/angularjs/angularjs-original.svg" alt="Angular" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/angular.svg" alt="Angular" style="margin: 4px;"/>
-
-<!-- JSON -->
-<img src="https://devicon.dev/icons/nodejs/nodejs-original.svg" alt="JSON (Node.js)" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/json.svg" alt="JSON" style="margin: 4px;"/>
-
-<!-- HTTP (Cloudflare) -->
-<img src="https://simpleicons.org/icons/cloudflare.svg" alt="Cloudflare" style="margin: 4px;"/>
-
-<!-- Bootstrap -->
-<img src="https://devicon.dev/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/bootstrap.svg" alt="Bootstrap" style="margin: 4px;"/>
-
-<!-- GIMP -->
-<img src="https://devicon.dev/icons/gimp/gimp-original.svg" alt="GIMP" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/gimp.svg" alt="GIMP" style="margin: 4px;"/>
-
-<!-- Git -->
-<img src="https://devicon.dev/icons/git/git-original.svg" alt="Git" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/git.svg" alt="Git" style="margin: 4px;"/>
-
-<!-- GitHub -->
-<img src="https://devicon.dev/icons/github/github-original.svg" alt="GitHub" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/github.svg" alt="GitHub" style="margin: 4px;"/>
-
-<!-- Visual Studio Code -->
-<img src="https://devicon.dev/icons/vscode/vscode-original.svg" alt="VS Code" style="margin: 4px;"/>
-<img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VS Code" style="margin: 4px;"/>
-
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=json" height="40" alt="JSON logo" />
+    <img width="12" />
+    
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
 </div>
 
 ---
