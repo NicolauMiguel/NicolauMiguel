@@ -17,13 +17,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -41,21 +37,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows 11 logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON logo" />
-  <img width="12" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="40" alt="figma logo" />
-<img width="12" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="40" alt="intelij logo" />
 <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
 <img width="12" />
