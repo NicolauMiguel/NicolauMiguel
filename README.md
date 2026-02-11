@@ -12,6 +12,8 @@
 
 ## 🛠️ Skills
 
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="Postman logo" />
+<img width="12" />
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -35,9 +37,7 @@
 <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
 <img width="12" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON logo" />
-<img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="Postman logo" />
+  <img src="https://skillicons.dev/icons?i=json" height="40" alt="Json logo" />
 <img width="12" />
 
 
