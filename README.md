@@ -29,9 +29,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="40" alt="react" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="react" />
   <img width="12" />
-<img src="https://skillicons.dev/icons?i=expo" height="40" alt="react" />
+<img src="https://skillicons.dev/icons?i=npm" height="40" alt="react" />
 <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
 <img width="12" />
