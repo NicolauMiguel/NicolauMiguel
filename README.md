@@ -29,8 +29,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img src="https://skillicons.dev/icons?i=reactnative" height="40" alt="react" />
   <img width="12" />
+<img src="https://skillicons.dev/icons?i=expo" height="40" alt="react" />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
+<img width="12" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON logo" />
 <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="Postman logo" />
