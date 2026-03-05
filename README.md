@@ -1,16 +1,9 @@
-- 👋 Hi, I’m @NicolauMiguel
-- 👀 I’m interested in ... Work like mobile dev
-- 🌱 I’m currently learning ... Machine learning & Data Science
-- 💞️ I’m looking to collaborate on ... Projects
-- 😄 Pronouns: ... Strengh, kind and smart.
-- ⚡ Fun fact: ... nothing! to migrate 💼
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Guys!+👋;+I'm+Nicolau+Miguel!;" />
 </h1>
 
 
-## 🛠️ Skills
+## 🛠️ Development Skills
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
